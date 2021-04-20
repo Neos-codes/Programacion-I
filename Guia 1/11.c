@@ -21,7 +21,7 @@ int main(){
         printf("lots");
 
     if(m >= 50 && m <= 99)
-        printf("horda");    // Es mejor la alianza
+        printf("horde");    // Es mejor la alianza
     
     if(m >= 100 && m <= 249)
         printf("throng");
