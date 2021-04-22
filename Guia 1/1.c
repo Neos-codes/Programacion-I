@@ -2,8 +2,8 @@
 
 int main(){
 
-//Escribe un programa que pida un número entero e imprima todos sus divisores entre el 2 y el 10.
-//Sin ciclos
+// Escribe un programa que pida un número entero e imprima todos sus divisores entre el 2 y el 10.
+// Sin ciclos
 
     int n;
     scanf("%d", &n);
