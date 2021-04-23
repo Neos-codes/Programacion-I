@@ -5,6 +5,7 @@
 int main(){
 
     int n, k, time;
+    
     scanf("%d %d", &n, &k);
 
     if(n <= k){
